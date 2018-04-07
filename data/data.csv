@@ -1,0 +1,53 @@
+stateAbbr,stateName,percentBelow25k,percentFoodStamp
+AL,Alabama,20.2,15.8
+AK,Alaska,13,10.3
+AZ,Arizona,19.5,13.1
+AR,Arkansas,24.4,14.4
+CA,California,15.4,9.5
+CO,Colorado,15.8,8.9
+CT,Connecticut,14.4,12.8
+DE,Delaware,18.4,12.9
+DC,District of Columbia,17.1,14.1
+FL,Florida,20.3,14.8
+GA,Georgia,21.2,15.7
+HI,Hawaii,15.3,11.7
+ID,Idaho,19.4,11.8
+IL,Illinois,15.8,13.7
+IN,Indiana,19,12.8
+IA,Iowa,14.8,11.9
+KS,Kansas,17.2,9.5
+KY,Kentucky,19.5,17.5
+LA,Louisiana,20.9,15.7
+ME,Maine,18.3,16.9
+MD,Maryland,15.1,11.6
+MA,Massachusetts,15.4,13
+MI,Michigan,16.3,16.2
+MN,Minnesota,14.3,9.2
+MS,Mississippi,23.2,18.1
+MO,Missouri,16.6,12.8
+MT,Montana,19.5,11.1
+NE,Nebraska,16.8,9.4
+NV,Nevada,18.7,12.3
+NH,New Hampshire,12.7,7.9
+NJ,New Jersey,16.3,9.2
+NM,New Mexico,23.5,15.5
+NY,New York,17.2,15.6
+NC,North Carolina,20.6,14.4
+ND,North Dakota,14.6,8.2
+OH,Ohio,18.8,14.9
+OK,Oklahoma,19.9,13.8
+OR,Oregon,19.4,18.9
+PA,Pennsylvania,16.6,13
+RI,Rhode Island,16.7,17.5
+SC,South Carolina,20.4,14.3
+SD,South Dakota,15.8,10.9
+TN,Tennessee,20.2,17.6
+TX,Texas,20.2,13.1
+UT,Utah,15.1,8.1
+VT,Vermont,15.7,14.3
+VA,Virginia,15.9,9.9
+WA,Washington,14.8,14.1
+WV,West Virginia,21.1,16.4
+WI,Wisconsin,16.5,13.1
+WY,Wyoming,16.5,6.7
+PR,Puerto Rico,24.5,38.7
